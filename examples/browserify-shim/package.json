@@ -1,6 +1,7 @@
 {
   "devDependencies": {
-    "grunt": "~0.4.5"
+    "grunt": "~0.4.5",
+    "grunt-browserify": "^3.7.0"
   },
   "dependencies": {
     "browserify": "^9.0.3",
